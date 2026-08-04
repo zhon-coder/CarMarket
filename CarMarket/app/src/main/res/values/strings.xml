@@ -1,0 +1,90 @@
+<resources>
+    <!-- Google SignIn Client Id-->
+    <string name="google_client_id">1089145409100-9tpdd34lj3r9gd7v66sb5eh5jube5rah.apps.googleusercontent.com</string>
+    <!-- Navigation -->
+    <string name="app_name">CarMarket</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="profile">Profile</string>
+
+    <!-- Login -->
+    <string name="login_title">Welcome Back</string>
+    <string name="login_user">Enter username</string>
+    <string name="login_password">Enter password</string>
+    <string name="login_button">Login</string>
+    <string name="login_remember">Remember password</string>
+    <string name="login_forgot">Forgot Password?</string>
+    <string name="login_register_tip">Don\'t have an account?</string>
+    <string name="login_register">Sign Up</string>
+    <string name="login_third_text">Third party login</string>
+    <string name="login_facebook">Facebook Login</string>
+
+    <!-- Register -->
+    <string name="register_tittle">Create an account</string>
+    <string name="register_tittle_desc">Register an new account and start to use</string>
+    <string name="register_input_account">Enter new account name</string>
+    <string name="register_input_password">Enter password</string>
+    <string name="register_input_password_again">Enter password again</string>
+    <string name="register_button">Register</string>
+    <string name="register_tip">Already have an account?</string>
+    <string name="register_login">Log in</string>
+    <string name="register_code">Please enter verify code</string>
+    <string name="register_btn_code">Get verify code</string>
+
+    <!-- Forgot password -->
+    <string name="forgot_tittle">Reset Password</string>
+    <string name="forgot_desc">Enter the following information to reset your account password</string>
+    <string name="forgot_account_name">Enter your account name</string>
+    <string name="forgot_confirm">Enter confirmation code</string>
+    <string name="forgot_done">Done</string>
+    <string name="forgot_email">Enter your email address</string>
+    <string name="register_email">Enter your email address</string>
+    <string name="splash_logo">logo</string>
+    <string name="splash_desc">Find Your Perfect Car</string>
+    <string name="forgot_back">Back to login</string>
+    <string name="forgot_new_password">Enter new password</string>
+    <string name="forgot_new_password_again">Enter new password again</string>
+
+    <!-- details -->
+    <string name="details_text">Tesla Model X 是特斯拉旗下的旗舰级纯电动豪华 SUV，
+        以独特的鹰翼门设计、强劲的动力性能和先进的智能科技而闻名。车辆采用纯电驱动系统，
+        提供出色的加速表现和长续航能力，兼顾家庭出行与高性能驾驶需求。宽敞舒适的车内空间最多可容纳七名乘客，
+        并配备大尺寸触控屏、高级音响系统和智能驾驶辅助功能，为驾驶者和乘客带来现代化的出行体验。
+        凭借未来感十足的外观设计、领先的电动车技术以及丰富的智能化配置，Tesla Model X 成为高端纯电 SUV
+        市场中极具代表性的车型之一。</string>
+    <string name="details_image">header image</string>
+    <string name="home_reset_spinner">Reset</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_logout">Logout</string>
+
+    <!-- home search and filters -->
+    <string-array name="category_array">
+        <item>All</item>
+        <item>Sedan</item>
+        <item>EV</item>
+        <item>SUV</item>
+        <item>Truck</item>
+        <item>Hatchback</item>
+    </string-array>
+    <string-array name="fuel_type_array">
+        <item>All</item>
+        <item>Petrol</item>
+        <item>Electric</item>
+        <item>Hybrid</item>
+        <item>Diesel</item>
+    </string-array>
+    <string-array name="brand_array">
+        <item>All</item>
+        <item>Toyota</item>
+        <item>Honda</item>
+        <item>Tesla</item>
+        <item>BMW</item>
+        <item>Mercedes-Benz</item>
+        <item>Ford</item>
+        <item>Hyundai</item>
+        <item>Kia</item>
+        <item>Volkswagen</item>
+        <item>BYD</item>
+    </string-array>
+</resources>

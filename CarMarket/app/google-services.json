@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1089145409100",
+    "project_id": "fir-819eb",
+    "storage_bucket": "fir-819eb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089145409100:android:579ec3965a9c7de3a86ee9",
+        "android_client_info": {
+          "package_name": "com.example.carmarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089145409100-9tpdd34lj3r9gd7v66sb5eh5jube5rah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChtN-hQqgFSkShBT1fnLbTQfuq7_oMkiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089145409100-9tpdd34lj3r9gd7v66sb5eh5jube5rah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
