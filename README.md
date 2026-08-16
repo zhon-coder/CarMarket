@@ -198,19 +198,24 @@ Benefits of Room:
 ## Screenshots
 
 ### Login Screen
-_Add Screenshot_
+<img width="270" height="540" alt="Login_Page" src="https://github.com/user-attachments/assets/33e838c8-0147-46c1-b579-4dbe5f362ed2" />
+
 
 ### Register Screen
-_Add Screenshot_
+<img width="270" height="540" alt="Register_Page" src="https://github.com/user-attachments/assets/50a428d7-0264-4505-b9b5-1440c136624d" />
+
+### Forgot Screen
+<img width="270" height="540" alt="Forgot_Page" src="https://github.com/user-attachments/assets/3fe66ec8-9fb8-43a0-9266-42c896139dad" />
 
 ### Home Screen
-_Add Screenshot_
+<img width="270" height="540" alt="Home_Page" src="https://github.com/user-attachments/assets/d9c18673-ca19-4119-bd2e-913496e1fa18" />
 
 ### Vehicle Details Screen
-_Add Screenshot_
+<img width="270" height="540" alt="Detail_Page" src="https://github.com/user-attachments/assets/757e2896-f749-4d33-9609-abd8c4898f84" />
+
 
 ### Navigation Drawer
-_Add Screenshot_
+<img width="270" height="540" alt="Profile_Drawer_Page" src="https://github.com/user-attachments/assets/4ddbbcd0-6da7-4b3a-a6f3-00d867f38de7" />
 
 ---
 
